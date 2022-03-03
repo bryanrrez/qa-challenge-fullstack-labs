@@ -1,0 +1,9 @@
+{
+    "valid_appointment": {
+        "pet_name": "Pocker",
+        "owner_name": "John Doe",
+        "date": "03/12/2022",
+        "time": "12:00 PM",
+        "symptoms": "Diarrhea"
+    }
+}

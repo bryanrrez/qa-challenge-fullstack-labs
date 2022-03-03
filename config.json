@@ -1,0 +1,5 @@
+{
+    "environment": "localhost",
+    "wait_time": 10,
+    "browser": "chrome"
+}
